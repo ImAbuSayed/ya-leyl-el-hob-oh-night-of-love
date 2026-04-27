@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليل الحب خذني في دربه
+> قلبي مشتاق وناره في قلبه
+> في عيونك أرى كل الأماني
+> والشوق يغني أحلى أغاني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
