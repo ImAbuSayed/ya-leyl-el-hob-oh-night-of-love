@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-leyl-el-hob-oh-night-of-love/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Sync Licensing for Ya Leyl El Hob – Oh Night of Love](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
